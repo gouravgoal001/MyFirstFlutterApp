@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
           child: Text("Welcome to MyApp $partName $part "),
         ),
       ),
-      drawer: Drawer(),
+      // drawer: Drawer(),
     );
   }
 }
